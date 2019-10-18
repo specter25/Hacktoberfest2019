@@ -20,14 +20,14 @@ body, html {
   -webkit-border-radius: 99em;
   -moz-border-radius: 99em;
   border-radius: 99em;
-  -webkit-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
-  box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75); 
+  -webkit-box-shadow: 10px 10px 25px 0px rgba(1,1,0,0.75);
+  -moz-box-shadow: 10px 10px 25px 0px rgba(2,0,0,0.75);
+  box-shadow: 10px 10px 25px 0px rgba(0,0,2,0.75); 
 }
 
 .bg {
   background-image: url("Ryzen-3rg-gen-AMD-cpu-poster.jpg");
-  position: relative;
+  position: absolute;
   height: 100%;
   opacity: 1;
   filter: alpha(opacity=70); 
